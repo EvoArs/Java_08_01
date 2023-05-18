@@ -4,6 +4,6 @@ public class Post {
     public String patronymic;   //Отчество
     public String passport;     //Паспорт
     public String phone;        //Телефон
-    public String subscription; //Подписка
+    public Boolean subscription; //Подписка
     public FormDate birthday;   //Дата
 }
